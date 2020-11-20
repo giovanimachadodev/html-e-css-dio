@@ -1,0 +1,37 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: aquamarine;
+    font-family: 'Roboto', sans-serif;
+}
+
+nav{
+    height: 50px;
+    padding: 10px;
+}
+
+nav a{
+    text-decoration: none;
+}
+nav li {
+    list-style: none;
+    display: inline;
+    padding-right: 30px;
+    color: #FFFFFF;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.imgquemsomos{
+    width: 400;
+    height: 600;
+}
+
+h1, h2{
+    color: #FFFFFF;
+    text-shadow: 1px 1px #000000;
+}
+
+footer{
+    text-align: center;
+}
