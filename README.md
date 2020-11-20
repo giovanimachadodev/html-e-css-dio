@@ -1,8 +1,8 @@
-#Projeto HTML e CSS - Iniciante
+# Projeto HTML e CSS - Iniciante
 
 Conteúdos Abordados
 
-##HTML
+## HTML
 * Tags
 * Semântica
 * Listas
@@ -11,7 +11,7 @@ Conteúdos Abordados
 * Imagens
 * Fontes
 
-#CSS
+## CSS
 * Margin
 * Padding
 * Background-color
